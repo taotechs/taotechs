@@ -1,7 +1,7 @@
-### Hi there 👋
-
+### Hi there, 👋
+### I'm Taotech
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="300" height="100"/>
 </div>
 <div id="badges"  align="center">
   <a href="https://linkedin.com/in/taotechsolutions">
@@ -17,8 +17,8 @@
 <div id="COUNT"  align="center">
 <img src="https://komarev.com/ghpvc/?username=taotechs&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <!--
 **taotechs/taotechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

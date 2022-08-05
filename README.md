@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
 </div>
 <div id="badges"  align="center">
   <a href="www.linkedin.com/in/taotechsolutions">
@@ -13,6 +13,9 @@
   <a href="[your-twitter-URL](https://twitter.com/taofiqakintunde)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+<div id="COUNT"  align="center">
+<img src="https://komarev.com/ghpvc/?username=taotechs&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **taotechs/taotechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

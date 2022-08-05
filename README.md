@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="100"/>
 </div>
 <div id="badges"  align="center">
-  <a href="www.linkedin.com/in/taotechsolutions">
+  <a href="https://linkedin.com/in/taotechsolutions">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/taofiqakintunde)">
+  <a href="https://twitter.com/taofiqakintunde">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

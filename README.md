@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=taotechs&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
 </div>
 <!--
 **taotechs/taotechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

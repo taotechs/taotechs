@@ -1,8 +1,9 @@
-### Hi there, 👋
-### I'm Taotech
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="300" height="100"/>
+<div id="header" align="center">  Hi there, 👋
+ I'm Taofeek Akintunde, a programming enthusiast and a Java Programmer.
 </div>
+<!--<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="300" height="100"/>
+</div> -->
 
 <div id="badges"  align="center">
   <p><b>Lets link up via the buttons below: </b></p>

@@ -1,5 +1,5 @@
 <div id="header" align="center">  Hi there, 👋
- I'm Taofeek Akintunde, a programming enthusiast and a Java Programmer.
+ I'm Taofeek Akintunde, a programming enthusiast.
 </div>
 <!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="300" height="100"/>

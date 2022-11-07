@@ -33,9 +33,9 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Android Apps
 - 🌱 I’m currently learning Android Jetpack Compose
-- 👯 I’m looking to collaborate on android projects
+- 👯 I’m looking to collaborate on software projects
 - 🤔 I’m looking for help with exapanding my skils
 - 💬 Ask me about Andriod app development
 - 📫 How to reach me: send a mail to <a>akintundetaofiq@gmail.com</a>
 - 😄 Pronouns: He
-- ⚡ Fun fact: Go for it if you want it.
+- ⚡ Fun fact: if you can't fly then walk, if you can't walk then crawl, just don't stop going!.

@@ -31,8 +31,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning Android Jetpack Compose
+- 🔭 I’m currently working on Android basics.
+- 🌱 I’m currently learning Software Engineering 
 - 👯 I’m looking to collaborate on software projects
 - 🤔 I’m looking for help with exapanding my skils
 - 💬 Ask me about Andriod app development

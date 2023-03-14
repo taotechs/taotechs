@@ -31,11 +31,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Android basics using flutter.
+- 🔭 I’m currently working on Android basics using flutter/Dart.
 - 🌱 I’m currently learning Software Engineering 
 - 👯 I’m looking to collaborate on software projects
 - 🤔 I’m looking for help with exapanding my skils
-- 💬 Ask me about Andriod app development
+- 💬 Ask me about Mobile Application development
 - 📫 How to reach me: send a mail to <a>akintundetaofiq@gmail.com</a>
 - 😄 Pronouns: He
 - ⚡ Fun fact: if you can't fly then walk, if you can't walk then crawl, just don't stop going!.

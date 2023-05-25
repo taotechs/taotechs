@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 Mobile App Developer Flutter/Dart
 - 👯 I’m looking to collaborate on software projects
-- 🤔 I’m looking for help with exapanding my skils
+- 🤔 I’m looking for help with exapanding my skills
 - 💬 Ask me about Mobile Application development
 - 📫 How to reach me: send a mail to <a>akintundetaofiq@gmail.com</a>
 - 😄 Pronouns: He

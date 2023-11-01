@@ -1,5 +1,5 @@
 <div id="header" align="center">  Hi there, 👋
- I'm Taofeek, Mobile App Developer.
+ I'm Taofeek, Mobile Developer.
 </div>
 <!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="300" height="100"/>

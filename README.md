@@ -36,5 +36,4 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with exapanding my skills
 - 💬 Ask me about Mobile Application development
 - 📫 How to reach me: send a mail to <a>akintundetaofiq@gmail.com</a>
-- 😄 Pronouns: He
-- ⚡ Fun fact: I drink water alot...lol
+

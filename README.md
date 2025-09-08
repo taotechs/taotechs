@@ -60,6 +60,7 @@ With a **First-Class degree in Computer Science** 🎓 and hands-on experience i
 
 <!-- Closing Note -->
 <div align="center">
-  <i>✨ Innovating for a Better Tomorrow ✨</i><br/>
-  <b>by Taotech Solutions</b>
+  <b>by Taotech Solutions</b><br/>
+  <i>✨ Innovating for a Better Tomorrow ✨</i>
+  
 </div>

@@ -163,11 +163,9 @@ I believe in:
 - **🔍 Transparent Solutions** - Building systems that promote accountability and trust
 
 ### 🎪 Fun Facts About Me
-- 🧠 I can solve complex algorithms while listening to Afrobeats
 - 🌱 Passionate about sustainable technology and green computing
 - 📚 Always reading about emerging technologies and industry trends
-- 🎮 Love building small games to test new programming concepts
-- ☕ Coffee-powered coding sessions are my specialty
+- 🎮 Love building small apps to test new programming concepts
 
 ---
 

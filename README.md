@@ -16,11 +16,11 @@
 
 I am a **Software Engineer** and the **Founder & CEO of Taotech Solutions**, passionate about leveraging cutting-edge technology to solve real-world problems and transform industries. With a **First-Class degree in Computer Science** 🎓, I specialize in creating scalable solutions that bridge the gap between innovation and practical implementation.
 
-**My mission:** Revolutionizing infrastructure development and combating systemic challenges through technology-driven solutions.
+**My mission:** Delivering innovative information technology solutions and combating systemic challenges through technology-driven approaches.
 
 ### 🎯 Core Focus Areas
 - **🤖 Artificial Intelligence Engineering** - Developing AI-enabled solutions for complex problem-solving
-- **🏗️ Infrastructure Technology** - Transforming project execution and addressing corruption through tech
+- **💻 Information Technology Solutions** - Comprehensive IT services and system implementations
 - **💻 Full-Stack Development** - Building robust web and mobile applications
 - **🔧 IT Support Services** - Providing comprehensive technical solutions
 - **👨‍🏫 Tech Mentorship** - Guiding the next generation of engineers
@@ -30,7 +30,7 @@ I am a **Software Engineer** and the **Founder & CEO of Taotech Solutions**, pas
 ## 🚀 What I'm Working On
 
 ### 🌍 Information Technology Innovation Project
-Currently spearheading an ambitious initiative to **transform Nigeria's technology landscape** through cutting-edge solutions. This groundbreaking project aims to:
+Currently spearheading an ambitious initiative to **transform Africa's technology landscape** through cutting-edge solutions. This groundbreaking project aims to:
 - Combat corruption through transparent IT systems
 - Leverage AI and data analytics for efficient project execution
 - Revolutionize how technology projects are managed and monitored
@@ -141,11 +141,11 @@ Currently spearheading an ambitious initiative to **transform Nigeria's technolo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taotechs&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taotechs&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taotechs&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taotechs&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://git-streak-stats.vercel.app/?user=taotechs&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -162,18 +162,13 @@ I believe in:
 - **📈 Continuous Learning** - Staying at the forefront of technological advancement
 - **🔍 Transparent Solutions** - Building systems that promote accountability and trust
 
-### 🎪 Fun Facts About Me
-- 🌱 Passionate about sustainable technology and green computing
-- 📚 Always reading about emerging technologies and industry trends
-- 🎮 Love building small apps to test new programming concepts
-
 ---
 
 ## 🤝 Let's Collaborate!
 
 I'm always excited to work on:
 - 🔥 **Innovative AI Projects** - Let's build the future together
-- 🏗️ **Infrastructure Solutions** - Transforming how we build and manage projects
+- 💻 **Information Technology Solutions** - Transforming how we build and manage IT systems
 - 🌍 **Social Impact Initiatives** - Technology for good
 - 💼 **Enterprise Software** - Scalable solutions for growing businesses
 - 🎓 **Educational Tech** - Making learning more accessible and effective

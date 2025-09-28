@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div id="header" align="center">
   <h1>Hi there 👋, I'm <span style="color:#2E86C1;">Taofeek Akintunde</span></h1>
-  <h3>🚀 Software Engineer | AI Enthusiast | Information Technology Innovator</h3>
+  <h3>🚀 Software Engineer | AI Enthusiast | IT Support Specialist</h3>
   <h4>Founder & CEO of <a href="https://www.taotechsolutions.com/" target="_blank">Taotech Solutions</a></h4>
 </div>
 

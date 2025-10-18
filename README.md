@@ -39,9 +39,8 @@ Currently spearheading an ambitious initiative to **transform Africa's technolog
 ### 🔬 Current Explorations
 - 🧠 **Advanced AI Applications** - Exploring machine learning and deep learning implementations
 - 🌐 **Full-Stack Innovation** - Developing next-generation web technologies
-- 📊 **Data Science Solutions** - Creating intelligent systems for decision-making
-- 🔐 **Blockchain Integration** - Implementing transparent and secure systems
-
+- 📊 **Data Science Solutions** - Creating intelligent systems for decision-makin
+  
 ---
 
 ## 💼 Professional Expertise

@@ -144,7 +144,7 @@ Currently spearheading an ambitious initiative to **transform Africa's technolog
 </div>
 
 <div align="center">
-  <img src="https://git-streak-stats.vercel.app/?user=taotechs&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://git-streak-stats.vercel.app/?user=taotechs&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---

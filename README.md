@@ -135,16 +135,21 @@ Currently spearheading an ambitious initiative to **transform Africa's technolog
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=taotechs&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://count.getloli.com/get/@taotechs?theme=rule34" alt="Profile Views"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taotechs&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taotechs&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://git-streak-stats.vercel.app/?user=taotechs&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=taotechs&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" height="180px"/>
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taotechs&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taotechs&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
